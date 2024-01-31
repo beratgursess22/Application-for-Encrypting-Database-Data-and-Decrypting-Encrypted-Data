@@ -1,0 +1,20 @@
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\bin\Debug\EncryptingData.exe.config
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\bin\Debug\EncryptingData.exe
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\bin\Debug\EncryptingData.pdb
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\obj\Debug\EncryptingData.csprojAssemblyReference.cache
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\obj\Debug\EncryptingData.Form1.resources
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\obj\Debug\EncryptingData.Properties.Resources.resources
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\obj\Debug\EncryptingData.csproj.GenerateResource.cache
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\obj\Debug\EncryptingData.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\obj\Debug\EncryptingData.exe
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\EncryptingData\EncryptingData\obj\Debug\EncryptingData.pdb
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\bin\Debug\EncryptingData.exe.config
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\bin\Debug\EncryptingData.exe
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\bin\Debug\EncryptingData.pdb
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\obj\Debug\EncryptingData.csprojAssemblyReference.cache
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\obj\Debug\EncryptingData.Properties.Resources.resources
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\obj\Debug\EncryptingData.csproj.GenerateResource.cache
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\obj\Debug\EncryptingData.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\obj\Debug\EncryptingData.exe
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\obj\Debug\EncryptingData.pdb
+D:\dwskopyedek\udemy 25 proje .com\EncryptingData\EncryptingData\EncryptingData\obj\Debug\EncryptingData.EncryptinAndDecrypting.resources
